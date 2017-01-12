@@ -1,4 +1,5 @@
 // This loads the environment variables from the .env file
+// need to sort out .env locally so that it doesnt show up on github
 require('dotenv-extended').load();
 
 var builder = require('botbuilder');
